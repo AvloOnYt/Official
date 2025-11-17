@@ -1,1 +1,3 @@
-1.0
+Online = True
+Version = 1.0
+DownloadUrl = 123
